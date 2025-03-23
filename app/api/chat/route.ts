@@ -1,4 +1,3 @@
-app/api/chat/route.ts
 export const runtime = "nodejs";
 
 import { OpenAIStream, StreamingTextResponse } from 'ai';
